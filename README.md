@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 I’m looking for an **Internship**
+- 👨‍💻 I’m looking for an **Internship in Web Development**
 
 - 📫 How to reach me **amsithathambawa@gmail.com**
 
