@@ -1,17 +1,18 @@
 <h1 align="center">👋 Hello World! I'm Amsith</h1>
 <h3 align="center">In the thrilling path of discovering computer science, I'm a perpetual improver, seeking to be the best version of myself. I specialize in developing responsive and user-friendly web applications with HTML, CSS, JavaScript, Bootstrap, and React.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amsith&label=Profile%20views&color=0e75b6&style=flat" alt="amsith" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Name-Mohammed Amsith-dark green" alt="amsith" /> <img src="https://komarev.com/ghpvc/?username=amsith&label=Profile%20views&color=0e75b6&style=flat" alt="amsith" /> <img src="https://img.shields.io/badge/Qualification-HNDinComputing, BSc in SoftEng-red" alt="amsith" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amsith" alt="amsith" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amsith" alt="amsith" /></a> </p>
+
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Amazon website clone**
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Amsith](https://github.com/Amsith)
+- 👨‍💻 I’m looking for an **Internship**
 
 - 📫 How to reach me **amsithathambawa@gmail.com**
 
