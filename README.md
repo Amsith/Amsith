@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World! I'm Amsith</h1>
-<h3 align="center">In the thrilling path of discovering computer science, I'm a perpetual improver, seeking to be the best version of myself. I specialize in developing responsive and user-friendly web applications using the MERN stack, which includes MongoDB, Express, React, and Node.js.</h3>
+<h3 align="center">As a MERN stack developer on the thrilling path of discovering computer science, I am a perpetual improver, always striving to be the best version of myself. I specialize in creating responsive and user-friendly web applications using MongoDB, Express, React, Node.js, along with JavaScript and Bootstrap.</h3>
 
 <p align="center"> <img src="https://img.shields.io/badge/Name-Mohammed Amsith-dark green" alt="amsith" /> <img src="https://komarev.com/ghpvc/?username=amsith&label=Profile%20views&color=0e75b6&style=flat" alt="amsith" /> <img src="https://img.shields.io/badge/Qualification-HNDinComputing, BSc (Hons) in SoftEng-red" alt="amsith" /> </p>
 
