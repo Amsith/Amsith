@@ -8,11 +8,9 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Shopper E-Commerce MERN project**
+- 🔭 I’m currently working on **Education Project.**
 
-- 🌱 I’m currently learning **MERN**
-
-- 👨‍💻 I’m looking for an **Internship in Web Development**
+- 👨‍💻 I’m looking for an **I am eager to grow in a professional setting and leverage my skills to add value to the team.**
 
 - 📫 How to reach me **amsithathambawa@gmail.com**
 
