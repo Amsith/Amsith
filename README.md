@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Education Project.**
 
-- 👨‍💻 I’m looking for an **I am eager to grow in a professional setting and leverage my skills to add value to the team.**
+- 👨‍💻 I’m looking for **Working alongside experienced professionals, I aim to bring fresh ideas while learning from industry experts.**
 
 - 📫 How to reach me **amsithathambawa@gmail.com**
 
