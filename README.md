@@ -1,14 +1,7 @@
 <h1 align="center">👋 Hello World! I'm Amsith</h1>
-<h3 align="center">As a MERN stack developer on the thrilling path of discovering Computer Science, I am a perpetual improver, always striving to be the best version of myself. I specialize in creating responsive and user-friendly web applications using MongoDB, Express, React, Node.js, along with JavaScript and Bootstrap.</h3>
+<h3 align="center">I am a passionate Full Stack Developer on the exciting journey of exploring Computer Science, constantly striving to improve and be the best version of myself. I specialize in building responsive, user-friendly, and scalable web applications using technologies such as React, Next.js, Angular, Vue.js, Redux Toolkit, NgRx, and Bootstrap/Tailwind CSS on the frontend, and Node.js, Express.js, NestJS, Spring Boot, and Fastify on the backend. With hands-on experience in working with MongoDB and MySQL, I also bring strong expertise in JavaScript, TypeScript, Java, REST APIs, Microservices, JWT Authentication, RabbitMQ, Docker, Kubernetes, and Jenkins.</h3>
 
 <p align="center"> <img src="https://img.shields.io/badge/Name-Mohammed Amsith-dark green" alt="amsith" /> <img src="https://komarev.com/ghpvc/?username=amsith&label=Profile%20views&color=0e75b6&style=flat" alt="amsith" /> <img src="https://img.shields.io/badge/Qualification-HNDinComputing, BSc (Hons) in SoftEng-red" alt="amsith" /> </p>
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amsith" alt="amsith" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Education Project.**
 
 - 👨‍💻 I’m looking for **Working alongside experienced professionals, I aim to bring fresh ideas while learning from industry experts.**
 
