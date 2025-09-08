@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hello World! I'm Amsith</h1>
-<h3 align="center">I am a passionate Full Stack Developer on the exciting journey of exploring Computer Science, constantly striving to improve and be the best version of myself. I specialize in building responsive, user-friendly, and scalable web applications using technologies such as React, Next.js, Angular, Vue.js, Redux Toolkit, NgRx, and Bootstrap/Tailwind CSS on the frontend, and Node.js, Express.js, NestJS, Spring Boot, and Fastify on the backend. With hands-on experience in working with MongoDB and MySQL, I also bring strong expertise in JavaScript, TypeScript, Java, REST APIs, Microservices, JWT Authentication, RabbitMQ, Docker, Kubernetes, and Jenkins.</h3>
+<h3 align="center">I am a passionate Full Stack Developer on the exciting journey of exploring Computer Science, constantly striving to improve and be the best version of myself. I specialize in building responsive, user-friendly, and scalable web applications</h3>
+
+<p align="center">
+HTML, JavaScript, TypeScript, Java, PHP, Python, ReactJS, Angular, Vue.js, Next.js, Redux, Zustand, Node.js, Express.js, Fastify.js, Spring Boot, NestJS, Laravel, GraphQL, WebSocket, REST API, React Native, Redis, RabbitMQ, Apache Kafka, AWS, Docker, Elasticsearch, Jenkins, Kubernetes, CI/CD, CSS, Bootstrap, Tailwind CSS, Sass/SCSS, Responsive Design, MongoDB, PostgreSQL, MySQL, SQLite, Prisma, TypeORM, Sequelize, JWT, OAuth, Spring Security, Passport.js, MVC, Monolithic, Microservices, Event-Driven Architecture, Design Patterns, Git, GitHub, Postman, Jira, Trello, ClickUp, MS Office
+</p>
 
 <p align="center"> <img src="https://img.shields.io/badge/Name-Mohammed Amsith-dark green" alt="amsith" /> <img src="https://komarev.com/ghpvc/?username=amsith&label=Profile%20views&color=0e75b6&style=flat" alt="amsith" /> <img src="https://img.shields.io/badge/Qualification-HNDinComputing, BSc (Hons) in SoftEng-red" alt="amsith" /> </p>
 
