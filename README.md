@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World! I'm Amsith</h1>
-<h3 align="center">I am a passionate Full Stack Developer on the exciting journey of exploring Computer Science, constantly striving to improve and be the best version of myself. I specialize in building responsive, user-friendly, and scalable web applications</h3>
+<h3 align="center">I am a passionate Software Engineer on the exciting journey of exploring Computer Science, constantly striving to improve and be the best version of myself. I specialize in building responsive, user-friendly, and scalable web applications</h3>
 
 <p align="center">
 HTML, JavaScript, TypeScript, Java, PHP, Python, ReactJS, Angular, Vue.js, Next.js, Redux, Zustand, Node.js, Express.js, Fastify.js, Spring Boot, NestJS, Laravel, GraphQL, WebSocket, REST API, React Native, Redis, RabbitMQ, Apache Kafka, AWS, Docker, Elasticsearch, Jenkins, Kubernetes, CI/CD, CSS, Bootstrap, Tailwind CSS, Sass/SCSS, Responsive Design, MongoDB, PostgreSQL, MySQL, SQLite, Prisma, TypeORM, Sequelize, JWT, OAuth, Spring Security, Passport.js, MVC, Monolithic, Microservices, Event-Driven Architecture, Design Patterns, Git, GitHub, Postman, Jira, Trello, ClickUp, MS Office
